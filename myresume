@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Justice Jones | Resume</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <h1>Justice Jones</h1>
+        <p>Business Analytics &amp; Information Systems (BAIS) and Marketing</p>
+        <p>University of Iowa – Tippie College of Business</p>
+    </header>
+
+    <main>
+        <!-- Downloadable resume link -->
+        <section>
+            <h2>Download My Résumé</h2>
+            <p>
+                You can view or download my full résumé here:
+            </p>
+            <p>
+                <!-- Change the filename below if your PDF has a different name -->
+                <a href="./justice_jones_resume.pdf" download>
+                    Download Résumé (PDF)
+                </a>
+            </p>
+        </section>
+
+        <!-- College experience -->
+        <section>
+            <h2>College Experience</h2>
+            <p>
+                I am a senior at the University of Iowa studying Business Analytics &amp; Information Systems (BAIS) 
+                and Marketing at the Tippie College of Business. My coursework has focused on data wrangling, 
+                data mining, digital product management, and marketing analytics.
+            </p>
+            <p>
+                I’ve worked on several hands-on projects, including building data pipelines and predictive models, 
+                creating interactive dashboards, and developing a personal portfolio website as part of my 
+                Digital Product Management course. These projects have helped me get comfortable working with data, 
+                telling stories with it, and thinking about how real users interact with digital products.
+            </p>
+        </section>
+
+        <!-- Work & other experience -->
+        <section>
+            <h2>Work & Professional Experience</h2>
+            <p>
+                Outside the classroom, I’ve worked as a follow-spot operator for events at Carver-Hawkeye Arena, 
+                where I’ve learned to stay focused under pressure, communicate clearly with a crew, and pay close 
+                attention to timing and detail during live events.
+            </p>
+            <p>
+                I’ve also been involved in projects that required coordinating with classmates, professors, and 
+                professionals, which has strengthened my teamwork, communication, and problem-solving skills. 
+                I enjoy roles where I can combine data, technology, and practical decision-making to create 
+                something useful.
+            </p>
+        </section>
+
+        <!-- Optional contact info -->
+        <section>
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:your-email@uiowa.edu">your-email@uiowa.edu</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com" target="_blank">Your LinkedIn Profile</a></p>
+            <p>GitHub: <a href="https://github.com" target="_blank">Your GitHub Profile</a></p>
+        </section>
+    </main>
+</body>
+</html>
