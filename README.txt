@@ -1,30 +1,29 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## Personal Portfolio Website
 
+### Overview
+This repository contains the source code for my personal portfolio website. The site was
+built to showcase my background, projects, and technical skills in a clean, professional
+format.
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+### Purpose
+The goal of this project was to create a public-facing portfolio that can be shared with
+recruiters, classmates, and instructors as a central overview of my work.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### Features
+- Responsive layout for desktop and mobile
+- Project pages with descriptions and links
+- Clean navigation and content organization
+- Integrated Google Analytics for traffic tracking
 
-(* = not included)
+### Tools & Technologies
+- HTML, CSS
+- GitHub
+- Static site hosting (GitHub Pages / Azure Static Web Apps)
+- Google Analytics
 
-AJ
-aj@lkn.io | @ajlkn
+### Live Site
+🌐 https://yourwebsite.com
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### Credits
+Site design is based on the **Editorial** template by HTML5 UP  
+https://html5up.net/editorial
